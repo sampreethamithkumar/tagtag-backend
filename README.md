@@ -2,7 +2,9 @@
 
 # Install the dependency
 
+```
 npm install
+```
 
 # Things to configure before starting the server:
 
@@ -12,4 +14,6 @@ Set the above mentioned params in .env file.
 
 # Start the Server
 
+```
 npm start
+```
